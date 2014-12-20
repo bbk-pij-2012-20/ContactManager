@@ -1,7 +1,7 @@
-Contact Manager (Dec 2013 - Jan 2014)
+Contact Manager 
 ---------------
 
-This is the 1st of 4 programming courseworks I completed as part of a conversion masters in Computer Science at Birkbeck College London.
+This is the 1st of 4 programming courseworks I completed (Dec 2013 - Jan 2014) as part of a conversion masters in Computer Science at Birkbeck College London.
 
 The coursework task was to implement interfaces describing a simple contact manager application. 
 
