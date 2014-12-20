@@ -1,3 +1,6 @@
+Contact Manager (Dec 2013 - Jan 2014)
+-------------------------------------
+
 This is the 1st of 2 programming courseworks I completed as part of the
 'Programming in Java' module, part of the conversion masters in 
 Computer Science at Birkbeck College London, Dec 2013 - Jan 2014.
