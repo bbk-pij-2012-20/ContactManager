@@ -1,15 +1,10 @@
 Contact Manager (Dec 2013 - Jan 2014)
--------------------------------------
+---------------
 
-This is the 1st of 2 programming courseworks I completed as part of the
-'Programming in Java' module, part of the conversion masters in 
-Computer Science at Birkbeck College London, Dec 2013 - Jan 2014.
+This is the 1st of 4 programming courseworks I completed as part of a conversion masters in Computer Science at Birkbeck College London.
 
-The coursework task was to implement a contact manager, the interfaces for which
-were supplied. We were asked to implement the interfaces (and not to build a much bigger application).
+The coursework task was to implement interfaces describing a simple contact manager application. 
 
-It was also intended that implementing the class ContactManager would serve as a demonstration of an anti-pattern
-("the blob" aka "god object"), wherein too much functionality is placed into one class.
+It was also intended that implementing the class ContactManager would serve as a demonstration of an anti-pattern ("the blob" aka "god object"), wherein too much functionality is placed into one class.
 
-(The 2 courseworks followed the exercises (can be seen on this Github account in 'JavaExercises' repository.
-The other coursework is also on this account called 'Quiz')
+(This and the other 3 programming courseworks came after the introduction to programming with 'Java exercises' https://github.com/bbk-pij-2012-20/JavaExercises)
