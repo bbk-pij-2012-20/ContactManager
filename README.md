@@ -164,6 +164,7 @@ public interface ContactManager {
 	*/
 	void flush();
 }
+```
 
 <h4>Contact</h4>
 ```
