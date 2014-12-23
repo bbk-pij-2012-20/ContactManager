@@ -16,6 +16,7 @@ The program should implement the interfaces provided below. Classes that impleme
 <h4>ContactManager</h4>
 
 '''
+
 import java.util.Calendar;
 import java.util.List;
 import java.util.Set;
@@ -42,7 +43,7 @@ int addFutureMeeting(Set<Contact> contacts, Calendar date);
 * @param id the ID for the meeting
 * @return the meeting with the requested ID, or null if it there is none.
 * @throws IllegalArgumentException if there is a meeting with that ID happening in the future
-1
+
 */
 PastMeeting getPastMeeting(int id);
 
@@ -165,6 +166,7 @@ Set<Contact> getContacts(String name);
 */
 void flush();
 }
+
 '''
 
 <h4>Contact</h4>
