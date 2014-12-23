@@ -15,8 +15,7 @@ The program should implement the interfaces provided below. Classes that impleme
 
 <h4>ContactManager</h4>
 
-'''
-
+```
 import java.util.Calendar;
 import java.util.List;
 import java.util.Set;
@@ -166,8 +165,7 @@ Set<Contact> getContacts(String name);
 */
 void flush();
 }
-
-'''
+```
 
 <h4>Contact</h4>
 /**
